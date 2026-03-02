@@ -13,6 +13,7 @@ var timer = setInterval(animate, interval);
 
 /*----------------------------------------------------------------------*/
 gameStates.changeState(`menu`);
+sounds.play(`mirorB`,1);
 
 //-------------------------AnimationLoop--------------------------------
 
