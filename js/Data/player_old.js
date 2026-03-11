@@ -44,7 +44,21 @@ var playerData ={
 			frames:
 			[
 				{width:32, height:32, startX:0, startY:0},
-				{width:32, height:32, startX:32, startY:32}
+				{width:32, height:32, startX:0, startY:0},
+				{width:32, height:32, startX:0, startY:0},
+				{width:32, height:32, startX:0, startY:0},
+				{width:32, height:32, startX:0, startY:0},
+				{width:32, height:32, startX:0, startY:0},
+				{width:32, height:32, startX:0, startY:0},
+				{width:32, height:32, startX:0, startY:0},
+				{width:32, height:32, startX:32, startY:32},
+				{width:32, height:32, startX:32, startY:32},
+				{width:32, height:32, startX:32, startY:32},
+				{width:32, height:32, startX:32, startY:32},
+				{width:32, height:32, startX:32, startY:32},
+				{width:32, height:32, startX:32, startY:32},
+				{width:32, height:32, startX:32, startY:32},
+				{width:32, height:32, startX:32, startY:32},
 			]
 		},
 		//The jump animation 
